@@ -1,0 +1,11 @@
+{
+  "name": "MiraiHanDoc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:daizihan233/MiraiHanBotDocs",
+  "author": "daizihan233 <daizihan233@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
