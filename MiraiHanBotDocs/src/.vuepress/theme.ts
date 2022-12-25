@@ -30,7 +30,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "默认页脚",
+      footer: "今天写Bug了嘛？",
 
       displayFooter: true,
 
