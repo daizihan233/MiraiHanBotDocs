@@ -7,8 +7,8 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "zh-CN",
-      title: "文档演示",
-      description: "vuepress-theme-hope 的文档演示",
+      title: "MiraiHanBot",
+      description: "MiraiHanBot 的使用、构建、开发文档",
     },
   },
 
