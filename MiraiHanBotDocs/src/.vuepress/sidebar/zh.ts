@@ -5,17 +5,16 @@ export const zhSidebar = sidebar({
     "",
     {
       icon: "discover",
-      text: "案例",
+      text: "使用",
       prefix: "demo/",
       link: "demo/",
       children: "structure",
     },
     {
-      text: "文档",
+      text: "构建",
       icon: "note",
       prefix: "guide/",
       children: "structure",
-    },
-    "slides",
+    }
   ],
 });

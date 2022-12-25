@@ -3,18 +3,18 @@ import { zhNavbar } from "./navbar/index.js";
 import { zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://botdoc.hantools.top",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mrhope.site",
+    name: "HanTools",
+    url: "https://botdoc.hantools.top",
   },
 
   iconAssets: "iconfont",
 
   logo: "/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "daizihan233/MiraiHanBot",
 
   docsDir: "demo/theme-docs/src",
 
@@ -23,7 +23,7 @@ export default hopeTheme({
     /**
      * Chinese locale config
      */
-    "/zh/": {
+    "/": {
       // navbar
       navbar: zhNavbar,
 
@@ -43,8 +43,7 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/demo/encrypt.html": ["1234"],
-      "/zh/demo/encrypt.html": ["1234"],
+      "/demo/encrypt.html": ["1234"]
     },
   },
 
