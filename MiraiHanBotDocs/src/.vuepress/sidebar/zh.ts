@@ -15,6 +15,12 @@ export const zhSidebar = sidebar({
       icon: "note",
       prefix: "guide/",
       children: "structure",
-    }
+    },
+    {
+      text: "源码",
+      icon: "note",
+      prefix: "code/",
+      children: "structure",
+    },
   ],
 });
