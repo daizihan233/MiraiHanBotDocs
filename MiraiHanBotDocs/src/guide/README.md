@@ -1,16 +1,7 @@
 ---
-title: 指南
+title: 构建指南
 icon: creative
 ---
 
-## 功能亮点
-
-### Bar
-
-- [baz](bar/baz.md)
-- ...
-
-### Foo
-
-- [ray](foo/ray.md)
-- ...
+## 目录
+ - [第一步：环境搭建](step1.md)
