@@ -3,16 +3,18 @@ home: true
 icon: home
 title: 项目主页
 heroImage: /logo.svg
-heroText: 项目名称
-tagline: 你可以在这里放置或是整个项目的描述。
+heroText: HanBot - Mirai
+tagline: 使用 Mirai + Graia 重写出的 HanBot
 actions:
   - text: 使用指南 💡 
     link: /demo/
     type: primary
 
-  - text: 文档
+  - text: 构建文档
     link: /guide/
 
+  - text: 代码品读
+    link: /code/
 features:
   - title: Markdown 增强
     icon: markdown
@@ -99,11 +101,7 @@ features:
     details: 包括图标支持、全屏按钮、返回顶部按钮等
     link: https://vuepress-theme-hope.github.io/v2/guide/feature/
 copyright: false
-footer: 使用 <a href="https://vuepress-theme-hope.github.io/v2/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2019-present Mr.Hope
+footer: 使用 <a href="https://vuepress-theme-hope.github.io/v2/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2019-present Mr.Hope | 这套 <a href="https://v2.vuepress.vuejs.org/zh/" target="_blank">VuePress</a> 主题真的很好看，很美观，你也快去试试吧！
 ---
 
-这是项目主页的案例。你可以在这里放置你的主体内容。
-
-想要使用此布局，你需要在页面 front matter 中设置 `home: true`。
-
-配置项的相关说明详见 [项目主页配置](https://vuepress-theme-hope.github.io/v2/guide/layout/home/)。
+这是 HanBot 的文档主页，主要是介绍特性，更好玩的在文档里！

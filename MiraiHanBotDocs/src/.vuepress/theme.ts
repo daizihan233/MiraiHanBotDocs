@@ -19,7 +19,6 @@ export default hopeTheme({
   docsDir: "demo/theme-docs/src",
 
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
-
   locales: {
     /**
      * Chinese locale config
@@ -73,9 +72,15 @@ export default hopeTheme({
        * Using Waline
        */
       provider: "Waline",
-      serverURL: "https://vuepress-theme-hope-comment.vercel.app",
+      serverURL: "https://bdoc-waline-git-whitesource-configure-hantools-foxmailcom.vercel.app",
+      emoji: [
+        '//unpkg.com/@waline/emojis@1.1.0/bmoji',
+        '//unpkg.com/@waline/emojis@1.1.0/bilibili',
+        '//unpkg.com/@waline/emojis@1.1.0/qq',
+      ],
+      requiredMeta: ['nick', 'mail']
     },
-
+    
     // Disable features you don’t want here
     mdEnhance: {
       align: true,
