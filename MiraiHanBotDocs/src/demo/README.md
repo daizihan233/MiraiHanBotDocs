@@ -11,3 +11,6 @@ category:
 - [涩图来](sese.md)
 - [面包厂](bread.md)
 - [防刷屏](block_repeat.md)
+- [你好](hello.md)
+- [摸鱼日历](fish.md)
+- [输出](echo.md)
