@@ -6,4 +6,4 @@ category:
 ---
 
 # /echo ```<sometext>```
-会吧echo后面的文本原封不动再发出来
+会把echo后面的文本原封不动再发出来

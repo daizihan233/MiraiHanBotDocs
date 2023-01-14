@@ -3,8 +3,8 @@ home: true
 icon: home
 title: 项目主页
 heroImage: /logo.svg
-heroText: HanBot - Mirai
-tagline: 使用 Mirai + Graia 重写出的 HanBot
+heroText: KuoHuBit
+tagline: 很屑很屑的一个QQBot
 actions:
   - text: 使用指南 💡 
     link: /demo/
