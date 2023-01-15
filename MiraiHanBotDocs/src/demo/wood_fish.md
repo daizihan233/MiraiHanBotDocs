@@ -1,5 +1,5 @@
 ---
-title: 摸鱼日历
+title: 赛博木鱼
 icon: info
 category:
 - 使用指南

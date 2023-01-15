@@ -17,4 +17,4 @@ category:
 - ~~你好~~
 - [摸鱼日历](fish.md)
 - [输出](echo.md)
-- [木鱼](wood_fish.md)
+- [赛博木鱼](wood_fish.md)
